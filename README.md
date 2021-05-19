@@ -82,5 +82,5 @@ Example ActivityRunnable object for call
                  }
 ```
 
-For more see the [MainActivity.kt](https://github.com/user/repo/blob/branch/other_file.md)
+For more see the [MainActivity.kt](https://github.com/mhrohani1385/MH-ActivityAdapter/blob/main/app/src/main/java/ir/zarin_android/runtaskinbackgroundacitivity/MainActivity.kt)
  demo
