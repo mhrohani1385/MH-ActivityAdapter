@@ -2,7 +2,7 @@
 Simple example kotlin Android Studio :: one adapter from run a task in transparent background activity from an service and more...
 You can use this feature in Pending intent of Android Notifications
 
-#H2 For download demo APK file [click here](https://github.com/mhrohani1385/MH-ActivityAdapter/raw/7cf2eb5be2673147b69f5d75bce572b493154f05/app-debug.apk)
+#H2 For download demo APK file [**Click here**](https://github.com/mhrohani1385/MH-ActivityAdapter/raw/7cf2eb5be2673147b69f5d75bce572b493154f05/app-debug.apk)
 
 Add this lines to your project style.xml
 
